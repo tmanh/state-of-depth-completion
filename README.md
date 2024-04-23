@@ -1,4 +1,4 @@
-# Awesome Depth Completion
+# State of Depth Completion
 
 **Table of Contents**
 - [About Sparse-to-Dense Depth Completion](#unsupervised-void-benchmark)
